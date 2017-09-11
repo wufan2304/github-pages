@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
+## 我的Github Pages
 
+# Author: wufan2304
+# Created date: 2017.09.11
 You can use the [editor on GitHub](https://github.com/wufan2304/github-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
